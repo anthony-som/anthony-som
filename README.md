@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @anthony-som
+- 👋 Hi, I’m @anthony-som (Anthony Som)
+- Student# 041095726
 - 👀 I’m interested in crypto, trading, gaming
 - 🌱 I’m currently learning programming
 
