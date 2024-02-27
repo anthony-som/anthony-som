@@ -1,5 +1,4 @@
 ## 👋 Hey, I'm Anthony!
-
 **Passionate about data, machine learning, and blockchain.**
 
 * Data Engineering
@@ -18,13 +17,13 @@
 
 * **Languages:** Python, JavaScript, Java, SQL
 * **Frameworks/Libraries:** React, Node.js, TensorFlow, PyTorch
-* **Tools:** Git, GitHub, Docker, Linux/WSL, 
+* **Tools:** Git, GitHub, Docker, Linux/WSL, Oracle, PostgreSQL, Google Cloud
 
 ***
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=anthony-som&theme=dracula&count_private=true&show_icons=true&hide=contribs" alt="GitHub Stats">
+<img src="https://github-readme-stats-asom.vercel.app/api?username=anthony-som&theme=gruvbox_light&count_private=true&include_all_commits=true&rank_icon=github&hide=prs,issues" alt="GitHub Stats">
 
 ***
 
