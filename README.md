@@ -23,7 +23,7 @@
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats-asom.vercel.app/api?username=anthony-som&theme=gruvbox_light&count_private=true&include_all_commits=true&rank_icon=github&hide=prs,issues" alt="GitHub Stats">
+<img src="https://github-readme-stats-lime-phi.vercel.app/api?username=anthony-som&theme=gruvbox_light&count_private=true&include_all_commits=true&rank_icon=github&hide=prs,issues" alt="GitHub Stats">
 
 ***
 
