@@ -16,7 +16,7 @@
 ### 💻 Skills and Interests
 
 * **Languages:** Python, JavaScript, Java, SQL
-* **Frameworks/Libraries:** React, Node.js, TensorFlow, PyTorch
+* **Frameworks/Libraries:** React, Node.js, Next.js, TensorFlow, PyTorch
 * **Tools:** Git, GitHub, Docker, Linux/WSL, Oracle, PostgreSQL, Google Cloud
 
 ***
