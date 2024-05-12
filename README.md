@@ -1,8 +1,10 @@
 ## 👋 Hey, I'm Anthony!
-**Passionate about data, machine learning, and blockchain.**
+**Passionate about financial markets, data, machine learning, and blockchain.**
 
 * Data Engineering
 * Web Development
+* Product Development
+* Trading
 * Blockchain Enthusiast
 
 **Connect with me:**
