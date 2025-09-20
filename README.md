@@ -1,11 +1,8 @@
 ## 👋 Hey, I'm Anthony!
-**Passionate about financial markets, data, machine learning, and blockchain.**
+**I am a Computer Science student at Toronto Metropolitan University, concentrating in Software Engineering.**
 
-* Data Engineering
-* Web Development
-* Product Development
-* Trading
-* Blockchain Enthusiast
+**My Goal:**
+* To drive innovation in the building services and construction industry by combining my experience in mechanical and electrical design with software engineering and emerging technologies such as AI, automation, IoT, and blockchain.
 
 **Connect with me:**
 
@@ -32,7 +29,6 @@
 ### 🌱 I'm currently learning...
 
 * Machine Learning + AI
-* Data Engineering
 
 ### 💬 Let's Connect!
 
