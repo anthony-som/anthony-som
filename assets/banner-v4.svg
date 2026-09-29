@@ -10,21 +10,10 @@
     <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
       <path d="M24 0H0V24" fill="none" stroke="#2B2D31" stroke-width="1"/>
     </pattern>
-    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0" stop-color="#fff" stop-opacity="0.9"/>
-      <stop offset="0.55" stop-color="#fff" stop-opacity="0.25"/>
-      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0" stop-color="#000"/>
-      <stop offset="0.5" stop-color="#070203"/>
-      <stop offset="1" stop-color="#2A0508"/>
-    </linearGradient>
-    <mask id="gridmask"><rect width="1200" height="300" fill="url(#fade)"/></mask>
   </defs>
 
-  <rect width="1200" height="300" fill="url(#bg)"/>
-  <rect width="1200" height="300" fill="url(#grid)" mask="url(#gridmask)"/>
+  <rect width="1200" height="300" fill="#000"/>
+  <rect width="1200" height="300" fill="url(#grid)" opacity="0.6"/>
 
   <!-- Parabolt construction lines -->
   <g stroke="#F5F5F3" stroke-opacity="0.18" stroke-dasharray="4 5" fill="none">
@@ -43,14 +32,14 @@
 
   <!-- Quantum Wave viewfinder brackets around the headline -->
   <g fill="none" stroke="#D43A4C" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M262 110V86H292"/>
-    <path d="M800 86H830V110"/>
-    <path d="M262 170V194H292"/>
-    <path d="M800 194H830V170"/>
+    <path d="M244 104V74H276"/>
+    <path d="M816 74H848V104"/>
+    <path d="M244 176V206H276"/>
+    <path d="M816 206H848V176"/>
   </g>
 
-  <text class="name" x="546" y="167" text-anchor="middle" font-size="74" letter-spacing="3" fill="#F5F5F3">ANTHONY SOM</text>
-  <text class="label" x="262" y="232" font-size="16" letter-spacing="5.4" fill="#F5F5F3" fill-opacity="0.72">DAY TRADER · ALGO DEVELOPER · MARKET ENTHUSIAST</text>
-  <rect x="262" y="252" width="48" height="4" fill="#D43A4C"/>
-  <rect x="314" y="252" width="48" height="4" fill="#BE8487"/>
+  <text class="name" x="546" y="164" text-anchor="middle" font-size="66" letter-spacing="3" fill="#F5F5F3">ANTHONY SOM</text>
+  <text class="label" x="244" y="244" font-size="16" letter-spacing="5.4" fill="#F5F5F3" fill-opacity="0.72">DAY TRADER · ALGO DEVELOPER · MARKET ENTHUSIAST</text>
+  <rect x="244" y="262" width="48" height="4" fill="#D43A4C"/>
+  <rect x="296" y="262" width="48" height="4" fill="#BE8487"/>
 </svg>

@@ -1,4 +1,4 @@
-<img src="assets/banner-v3.svg" width="100%" alt="Anthony Som: Day Trader, Algo Developer, Market Enthusiast" />
+<img src="assets/banner-v4.svg" width="100%" alt="Anthony Som: Day Trader, Algo Developer, Market Enthusiast" />
 
 <div align="center">
 
@@ -81,4 +81,4 @@ tooling:       a personal trading dashboard with AI trade review
 
 Market structure, execution, automation, or trading infrastructure. My DMs are open.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:070203,100:2a0508&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" alt="" />
