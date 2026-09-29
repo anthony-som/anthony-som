@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://quantumwave.dev"><img src="assets/quantum-wave-logo.png" width="88" alt="Quantum Wave logo" /></a>
+      <a href="https://quantumwave.dev"><img src="assets/qw-logo.png" width="88" alt="Quantum Wave logo" /></a>
       <h3>Quantum Wave</h3>
       <sub><b>Founder</b></sub>
       <p>A multi-timeframe stochastic indicator on TradingView that helps traders spot turning points in the market.</p>
@@ -19,7 +19,7 @@
       <a href="https://www.tradingview.com/script/y0PGB1ww-Quantum-Wave/"><img src="https://img.shields.io/badge/TradingView-7595AF?style=flat-square&logo=tradingview&logoColor=white" alt="TradingView" /></a>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://whop.com/quantum-wave/"><img src="assets/quantum-wave-v2-logo.png" width="88" alt="Quantum Wave v2 logo" /></a>
+      <a href="https://whop.com/quantum-wave/"><img src="assets/qw-v2-logo.png" width="88" alt="Quantum Wave v2 logo" /></a>
       <h3>Quantum Wave v2</h3>
       <sub><b>Founder</b></sub>
       <p>Algo trading that gives retail traders institutional-grade algorithmic access. Its crypto algo, a CNN model, returned <b>+78.5R before fees</b> in a backtest from Jan 1 to Sep 25, 2026. It also includes <b>QW-AI</b>, an AI day trader that checks its own parameters before it enters a trade.</p>
@@ -73,8 +73,8 @@ tooling:       a personal trading dashboard with AI trade review
 ## 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-lime-phi.vercel.app/api?username=anthony-som&hide_border=true&bg_color=0d0d0f&title_color=be8487&icon_color=d43a4c&text_color=f5f5f3&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&hide=prs,issues" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-lime-phi.vercel.app/api/top-langs/?username=anthony-som&hide_border=true&bg_color=0d0d0f&title_color=be8487&icon_color=d43a4c&text_color=f5f5f3&layout=compact&langs_count=6" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-lime-phi.vercel.app/api?username=anthony-som&bg_color=000000&title_color=d43a4c&icon_color=d43a4c&text_color=f5f5f3&ring_color=d43a4c&border_color=2b2d31&border_radius=6&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&hide=prs,issues&card_width=437&line_height=30" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-lime-phi.vercel.app/api/top-langs/?username=anthony-som&bg_color=000000&title_color=d43a4c&icon_color=d43a4c&text_color=f5f5f3&ring_color=d43a4c&border_color=2b2d31&border_radius=6&layout=compact&langs_count=6&card_width=437" alt="Top Languages" />
 </p>
 
 ## 💬 Let's Talk
