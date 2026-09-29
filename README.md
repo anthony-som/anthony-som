@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:131d34,55:47576a,100:7595af&height=180&section=header&text=Anthony%20Som&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Day%20Trader%20%E2%80%A2%20Algo%20Developer%20%E2%80%A2%20Market%20Enthusiast&descAlignY=60&descSize=16" width="100%" alt="Anthony Som" />
+<img src="assets/banner.svg" width="100%" alt="Anthony Som: Day Trader, Algo Developer, Market Enthusiast" />
 
 <div align="center">
 
