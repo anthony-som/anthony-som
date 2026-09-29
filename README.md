@@ -27,6 +27,20 @@
 
 Quantum Wave is a multi-timeframe stochastic indicator that helps traders spot turning points in the market. It powers my own signal research and trade alerts, and it has a community of traders behind it.
 
+### ⚡ Quantum Wave v2: Algo Trading
+
+<a href="https://whop.com/quantum-wave/"><img src="https://img.shields.io/badge/Quantum_Wave_v2_on_Whop-7595AF?style=for-the-badge" alt="Quantum Wave v2 on Whop" /></a>
+
+Quantum Wave v2 gives retail traders institutional-grade algorithmic access.
+
+**Featured: Crypto Algo.** A convolutional neural network (CNN) model. In a backtest on unseen data (May 9 – Sep 25, 2026), it returned **+28.5R before fees** across 155 trades, or +28.5% at 1% risk per trade.
+
+### 🔁 Co-founder of Parabolt
+
+<a href="https://www.parabolt.xyz/landing"><img src="https://img.shields.io/badge/Parabolt-131D34?style=for-the-badge" alt="Parabolt" /></a>
+
+Parabolt builds Synqer, which turns trade alerts posted in Discord communities into tracked positions. When you allow it, it also places the orders at your own broker, following sizing and risk rules you set.
+
 ## 👋 About
 
 I trade the markets and write the code behind it: broker connectivity, trade copiers, alert bots, scanners, and automated strategies. I also study Computer Science (Software Engineering) at Toronto Metropolitan University.
