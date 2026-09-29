@@ -4,10 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=7595AF&center=true&vCenter=true&width=620&lines=I+build+the+tools+I+trade+with.;Futures+%E2%80%A2+Options+%E2%80%A2+Crypto;Backtest.+Automate.+Execute.+Review." alt="Typing intro" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-som/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-131D34?style=for-the-badge&logo=About.me&logoColor=white)](https://anthonysom.dev)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/qikoCrypto)
-
 </div>
 
 ## 🚀 Ventures
