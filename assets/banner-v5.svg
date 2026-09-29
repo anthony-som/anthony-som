@@ -23,23 +23,17 @@
 
   <text class="label" x="48" y="44" font-size="12" letter-spacing="4.3" fill="#F5F5F3" fill-opacity="0.45">ANTHONY SOM — PROFILE</text>
 
-  <!-- Parabolt bolt mark -->
-  <g transform="translate(118 78) scale(2.25)" fill="#D43A4C">
-    <path d="M25.41 0h15.81L16.94 31.81H1.13z"/>
-    <path d="M23.72 34.07h15.81L15.81 64H0z"/>
-  </g>
-
 
   <!-- Quantum Wave viewfinder brackets around the headline -->
   <g fill="none" stroke="#D43A4C" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M244 104V74H276"/>
-    <path d="M816 74H848V104"/>
-    <path d="M244 176V206H276"/>
-    <path d="M816 206H848V176"/>
+    <path d="M298 104V74H330"/>
+    <path d="M870 74H902V104"/>
+    <path d="M298 176V206H330"/>
+    <path d="M870 206H902V176"/>
   </g>
 
-  <text class="name" x="546" y="164" text-anchor="middle" font-size="66" letter-spacing="3" fill="#F5F5F3">ANTHONY SOM</text>
-  <text class="label" x="244" y="244" font-size="16" letter-spacing="5.4" fill="#F5F5F3" fill-opacity="0.72">DAY TRADER · ALGO DEVELOPER · MARKET ENTHUSIAST</text>
-  <rect x="244" y="262" width="48" height="4" fill="#D43A4C"/>
-  <rect x="296" y="262" width="48" height="4" fill="#BE8487"/>
+  <text class="name" x="600" y="164" text-anchor="middle" font-size="66" letter-spacing="3" fill="#F5F5F3">ANTHONY SOM</text>
+  <text class="label" x="600" y="244" text-anchor="middle" font-size="16" letter-spacing="5.4" fill="#F5F5F3" fill-opacity="0.72">DAY TRADER · ALGO DEVELOPER · MARKET ENTHUSIAST</text>
+  <rect x="552" y="262" width="48" height="4" fill="#D43A4C"/>
+  <rect x="604" y="262" width="48" height="4" fill="#BE8487"/>
 </svg>
