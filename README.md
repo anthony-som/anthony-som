@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" width="100%" alt="Anthony Som: Day Trader, Algo Developer, Market Enthusiast" />
+<img src="assets/banner-qw.svg" width="100%" alt="Anthony Som: Day Trader, Algo Developer, Market Enthusiast" />
 
 <div align="center">
 
