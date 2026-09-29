@@ -30,7 +30,7 @@
       <a href="https://whop.com/quantum-wave/"><img src="https://img.shields.io/badge/Whop-8B1A1A?style=flat-square" alt="Whop" /></a>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.parabolt.xyz/landing"><img src="assets/parabolt-logo.svg" width="88" alt="Parabolt logo" /></a>
+      <a href="https://www.parabolt.xyz/landing"><img src="assets/parabolt-icon.svg" width="88" alt="Parabolt logo" /></a>
       <h3>Parabolt</h3>
       <sub><b>Co-founder</b></sub>
       <p>Builds Synqer, which turns trade alerts posted in Discord into tracked positions and, when you allow it, into orders at your own broker under your risk rules.</p>
