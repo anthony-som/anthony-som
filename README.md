@@ -26,7 +26,7 @@
       <a href="https://whop.com/quantum-wave/"><img src="assets/quantum-wave-v2-logo.png" width="88" alt="Quantum Wave v2 logo" /></a>
       <h3>Quantum Wave v2</h3>
       <sub><b>Founder</b></sub>
-      <p>Algo trading that gives retail traders institutional-grade algorithmic access. Its crypto algo, a CNN model, returned <b>+28.5R before fees</b> over 155 trades in a backtest on unseen data (May 9 – Sep 25, 2026).</p>
+      <p>Algo trading that gives retail traders institutional-grade algorithmic access. Its crypto algo, a CNN model, returned <b>+78.5R before fees</b> in a backtest from Jan 1 to Sep 25, 2026. It also includes <b>QW-AI</b>, an AI day trader that checks its own parameters before it enters a trade.</p>
       <a href="https://whop.com/quantum-wave/"><img src="https://img.shields.io/badge/Whop-8B1A1A?style=flat-square" alt="Whop" /></a>
     </td>
     <td align="center" valign="top" width="33%">
@@ -34,7 +34,7 @@
       <h3>Parabolt</h3>
       <sub><b>Co-founder</b></sub>
       <p>Builds Synqer, which turns trade alerts posted in Discord into tracked positions and, when you allow it, into orders at your own broker under your risk rules.</p>
-      <a href="https://www.parabolt.xyz/landing"><img src="https://img.shields.io/badge/parabolt.xyz-191A1D?style=flat-square" alt="parabolt.xyz" /></a>
+      <a href="https://www.parabolt.xyz/landing"><img src="https://img.shields.io/badge/parabolt.xyz-D43A4C?style=flat-square" alt="parabolt.xyz" /></a>
     </td>
   </tr>
 </table>
