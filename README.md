@@ -1,22 +1,38 @@
 ## 👋 Hey, I'm Anthony!
-**I am a Computer Science student at Toronto Metropolitan University, concentrating in Software Engineering.**
+**Day trader, algo developer, and market enthusiast.** I build the tools I trade with: broker connectivity, trade copiers, alert bots, and automated strategies. I also study Computer Science (Software Engineering) at Toronto Metropolitan University.
 
-**My Goal:**
-* To drive innovation in the building services and construction industry by combining my experience in mechanical and electrical design with software engineering and emerging technologies such as AI, automation, IoT, and blockchain.
+**Where I'm headed:**
+* Trade full-time on a book of systematic strategies that run without me watching the screen
+* Build and run my own fund or prop desk, backed by research and infrastructure I wrote myself
+* Give retail traders the same tools as institutions
+* Build AI agents that research, execute, and review trades on their own, with a human setting the risk
 
 **Connect with me:**
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-som/)
 [![](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://anthonysom.dev)
-[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/qikoCrypto) 
+[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/qikoCrypto)
 
 ***
 
-### 💻 Skills and Interests
+### 📈 Featured Projects
 
-* **Languages:** Python, JavaScript, Java, SQL
-* **Frameworks/Libraries:** React, Node.js, Next.js, TensorFlow, PyTorch
-* **Tools:** Git, GitHub, Docker, Linux/WSL, Oracle, PostgreSQL, Google Cloud
+* **[trade-journal](https://github.com/anthony-som/trade-journal)**: The open-source trade journal. Broker sync, P&L calendar, deep analytics, and AI reflection. Self-hosted, MIT, free.
+* **[broker-sdk](https://github.com/anthony-som/broker-sdk)**: One normalized API for brokers and exchanges covering accounts, positions, trade history, and performance stats. Your keys, your runtime.
+* **[propr-alerts](https://github.com/anthony-som/propr-alerts)**: A Discord bot that announces Hyperliquid and MEXC trades (entry, stop, target) and updates each alert live. It never shows position sizes.
+
+**Also building (private):** futures and crypto trade copiers, an options trading bot, market scanners, news feeds, and a trading dashboard.
+
+***
+
+### 🛠️ Stack
+
+* **Languages:** TypeScript, Python, SQL
+* **Web:** Next.js, React, Tailwind CSS, FastAPI, Prisma, Recharts, TradingView Lightweight Charts
+* **Quant & ML:** pandas, NumPy, SciPy, scikit-learn, PyTorch, Plotly
+* **Brokers & Data:** Interactive Brokers, Tradovate, moomoo, Tiger, Alpaca, Hyperliquid, Bybit, MEXC, Databento
+* **AI & Bots:** Claude API, OpenAI API, discord.py
+* **Tools:** Git, Docker, PostgreSQL, Vitest, pnpm
 
 ***
 
@@ -26,10 +42,6 @@
 
 ***
 
-### 🌱 I'm currently learning...
+### 💬 Let's Talk
 
-* Machine Learning + AI
-
-### 💬 Let's Connect!
-
-* Always happy to talk about data, tech, and blockchain!
+* Market structure, execution, automation, or trading infrastructure. My DMs are open.
