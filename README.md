@@ -1,14 +1,31 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:26a69a&height=180&section=header&text=Anthony%20Som&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Day%20Trader%20%E2%80%A2%20Algo%20Developer%20%E2%80%A2%20Market%20Enthusiast&descAlignY=60&descSize=16" width="100%" alt="Anthony Som" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:131d34,55:47576a,100:7595af&height=180&section=header&text=Anthony%20Som&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Day%20Trader%20%E2%80%A2%20Algo%20Developer%20%E2%80%A2%20Market%20Enthusiast&descAlignY=60&descSize=16" width="100%" alt="Anthony Som" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=26A69A&center=true&vCenter=true&width=620&lines=I+build+the+tools+I+trade+with.;Futures+%E2%80%A2+Options+%E2%80%A2+Crypto;Backtest.+Automate.+Execute.+Review." alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=7595AF&center=true&vCenter=true&width=620&lines=I+build+the+tools+I+trade+with.;Futures+%E2%80%A2+Options+%E2%80%A2+Crypto;Backtest.+Automate.+Execute.+Review." alt="Typing intro" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-som/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-26A69A?style=for-the-badge&logo=About.me&logoColor=white)](https://anthonysom.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-131D34?style=for-the-badge&logo=About.me&logoColor=white)](https://anthonysom.dev)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/qikoCrypto)
 
 </div>
+
+<p align="center">
+  <a href="https://quantumwave.dev"><img src="assets/quantum-wave-logo.png" width="96" alt="Quantum Wave logo" /></a>
+</p>
+
+<h3 align="center">Founder of <a href="https://quantumwave.dev">Quantum Wave</a></h3>
+
+<p align="center"><i>Giving traders their edge.</i></p>
+
+<div align="center">
+
+[![Quantum Wave](https://img.shields.io/badge/quantumwave.dev-131D34?style=for-the-badge&logoColor=white)](https://quantumwave.dev)
+[![TradingView](https://img.shields.io/badge/Indicator_on_TradingView-7595AF?style=for-the-badge&logo=tradingview&logoColor=white)](https://www.tradingview.com/script/y0PGB1ww-Quantum-Wave/)
+
+</div>
+
+Quantum Wave is a multi-timeframe stochastic indicator that helps traders spot turning points in the market. It powers my own signal research and trade alerts, and it has a community of traders behind it.
 
 ## 👋 About
 
@@ -48,12 +65,12 @@ tooling:       a personal trading dashboard with AI trade review
 ## 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-lime-phi.vercel.app/api?username=anthony-som&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&hide=prs,issues" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-lime-phi.vercel.app/api/top-langs/?username=anthony-som&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-lime-phi.vercel.app/api?username=anthony-som&hide_border=true&bg_color=131d34&title_color=9ab7c8&icon_color=7595af&text_color=e2eff4&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&hide=prs,issues" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-lime-phi.vercel.app/api/top-langs/?username=anthony-som&hide_border=true&bg_color=131d34&title_color=9ab7c8&icon_color=7595af&text_color=e2eff4&layout=compact&langs_count=6" alt="Top Languages" />
 </p>
 
 ## 💬 Let's Talk
 
 Market structure, execution, automation, or trading infrastructure. My DMs are open.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26a69a,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7595af,45:47576a,100:131d34&height=100&section=footer" width="100%" alt="" />
