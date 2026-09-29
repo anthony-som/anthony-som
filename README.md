@@ -22,7 +22,7 @@
       <a href="https://whop.com/quantum-wave/"><img src="assets/quantum-wave-v2-logo.png" width="88" alt="Quantum Wave v2 logo" /></a>
       <h3>Quantum Wave v2</h3>
       <sub><b>Founder</b></sub>
-      <p>Algo trading that gives retail traders institutional-grade algorithmic access. Its crypto algo, a CNN model, returned <b>+78.5R before fees</b> in a backtest from Jan 1 to Sep 25, 2026. It also includes <b>QW-AI</b>, an AI day trader that checks its own parameters before it enters a trade.</p>
+      <p>Algo trading that gives retail traders institutional-grade algorithmic access. Its crypto algo, a CNN model, returned <b>+28.5R before fees</b> across 155 out-of-sample trades (May 9 – Sep 25, 2026). It also includes <b>QW-AI</b>, an AI day trader that checks its own parameters before it enters a trade.</p>
       <a href="https://whop.com/quantum-wave/"><img src="https://img.shields.io/badge/Whop-72070C?style=flat-square" alt="Whop" /></a>
     </td>
     <td align="center" valign="top" width="33%">
