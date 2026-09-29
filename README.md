@@ -10,36 +10,34 @@
 
 </div>
 
-<p align="center">
-  <a href="https://quantumwave.dev"><img src="assets/quantum-wave-logo.png" width="96" alt="Quantum Wave logo" /></a>
-</p>
+## 🚀 Ventures
 
-<h3 align="center">Founder of <a href="https://quantumwave.dev">Quantum Wave</a></h3>
-
-<p align="center"><i>Giving traders their edge.</i></p>
-
-<div align="center">
-
-[![Quantum Wave](https://img.shields.io/badge/quantumwave.dev-131D34?style=for-the-badge&logoColor=white)](https://quantumwave.dev)
-[![TradingView](https://img.shields.io/badge/Indicator_on_TradingView-7595AF?style=for-the-badge&logo=tradingview&logoColor=white)](https://www.tradingview.com/script/y0PGB1ww-Quantum-Wave/)
-
-</div>
-
-Quantum Wave is a multi-timeframe stochastic indicator that helps traders spot turning points in the market. It powers my own signal research and trade alerts, and it has a community of traders behind it.
-
-### ⚡ Quantum Wave v2: Algo Trading
-
-<a href="https://whop.com/quantum-wave/"><img src="https://img.shields.io/badge/Quantum_Wave_v2_on_Whop-7595AF?style=for-the-badge" alt="Quantum Wave v2 on Whop" /></a>
-
-Quantum Wave v2 gives retail traders institutional-grade algorithmic access.
-
-**Featured: Crypto Algo.** A convolutional neural network (CNN) model. In a backtest on unseen data (May 9 – Sep 25, 2026), it returned **+28.5R before fees** across 155 trades, or +28.5% at 1% risk per trade.
-
-### 🔁 Co-founder of Parabolt
-
-<a href="https://www.parabolt.xyz/landing"><img src="https://img.shields.io/badge/Parabolt-131D34?style=for-the-badge" alt="Parabolt" /></a>
-
-Parabolt builds Synqer, which turns trade alerts posted in Discord communities into tracked positions. When you allow it, it also places the orders at your own broker, following sizing and risk rules you set.
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="https://quantumwave.dev"><img src="assets/quantum-wave-logo.png" width="88" alt="Quantum Wave logo" /></a>
+      <h3>Quantum Wave</h3>
+      <sub><b>Founder</b></sub>
+      <p>A multi-timeframe stochastic indicator on TradingView that helps traders spot turning points in the market.</p>
+      <a href="https://quantumwave.dev"><img src="https://img.shields.io/badge/quantumwave.dev-131D34?style=flat-square" alt="quantumwave.dev" /></a>
+      <a href="https://www.tradingview.com/script/y0PGB1ww-Quantum-Wave/"><img src="https://img.shields.io/badge/TradingView-7595AF?style=flat-square&logo=tradingview&logoColor=white" alt="TradingView" /></a>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://whop.com/quantum-wave/"><img src="assets/quantum-wave-v2-logo.png" width="88" alt="Quantum Wave v2 logo" /></a>
+      <h3>Quantum Wave v2</h3>
+      <sub><b>Founder</b></sub>
+      <p>Algo trading that gives retail traders institutional-grade algorithmic access. Its crypto algo, a CNN model, returned <b>+28.5R before fees</b> over 155 trades in a backtest on unseen data (May 9 – Sep 25, 2026).</p>
+      <a href="https://whop.com/quantum-wave/"><img src="https://img.shields.io/badge/Whop-8B1A1A?style=flat-square" alt="Whop" /></a>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.parabolt.xyz/landing"><img src="assets/parabolt-logo.svg" width="88" alt="Parabolt logo" /></a>
+      <h3>Parabolt</h3>
+      <sub><b>Co-founder</b></sub>
+      <p>Builds Synqer, which turns trade alerts posted in Discord into tracked positions and, when you allow it, into orders at your own broker under your risk rules.</p>
+      <a href="https://www.parabolt.xyz/landing"><img src="https://img.shields.io/badge/parabolt.xyz-191A1D?style=flat-square" alt="parabolt.xyz" /></a>
+    </td>
+  </tr>
+</table>
 
 ## 👋 About
 
