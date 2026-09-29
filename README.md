@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=7595AF&center=true&vCenter=true&width=620&lines=I+build+the+tools+I+trade+with.;Futures+%E2%80%A2+Options+%E2%80%A2+Crypto;Backtest.+Automate.+Execute.+Review." alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=BE8487&center=true&vCenter=true&width=620&lines=I+build+the+tools+I+trade+with.;Futures+%E2%80%A2+Options+%E2%80%A2+Crypto;Backtest.+Automate.+Execute.+Review." alt="Typing intro" />
 
 </div>
 
@@ -23,7 +23,7 @@
       <h3>Quantum Wave v2</h3>
       <sub><b>Founder</b></sub>
       <p>Algo trading that gives retail traders institutional-grade algorithmic access. Its crypto algo, a CNN model, returned <b>+78.5R before fees</b> in a backtest from Jan 1 to Sep 25, 2026. It also includes <b>QW-AI</b>, an AI day trader that checks its own parameters before it enters a trade.</p>
-      <a href="https://whop.com/quantum-wave/"><img src="https://img.shields.io/badge/Whop-8B1A1A?style=flat-square" alt="Whop" /></a>
+      <a href="https://whop.com/quantum-wave/"><img src="https://img.shields.io/badge/Whop-72070C?style=flat-square" alt="Whop" /></a>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://www.parabolt.xyz/landing"><img src="assets/parabolt-icon.svg" width="88" alt="Parabolt logo" /></a>
@@ -73,12 +73,12 @@ tooling:       a personal trading dashboard with AI trade review
 ## 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-lime-phi.vercel.app/api?username=anthony-som&hide_border=true&bg_color=131d34&title_color=9ab7c8&icon_color=7595af&text_color=e2eff4&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&hide=prs,issues" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-lime-phi.vercel.app/api/top-langs/?username=anthony-som&hide_border=true&bg_color=131d34&title_color=9ab7c8&icon_color=7595af&text_color=e2eff4&layout=compact&langs_count=6" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-lime-phi.vercel.app/api?username=anthony-som&hide_border=true&bg_color=0d0d0f&title_color=be8487&icon_color=d43a4c&text_color=f5f5f3&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&hide=prs,issues" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-lime-phi.vercel.app/api/top-langs/?username=anthony-som&hide_border=true&bg_color=0d0d0f&title_color=be8487&icon_color=d43a4c&text_color=f5f5f3&layout=compact&langs_count=6" alt="Top Languages" />
 </p>
 
 ## 💬 Let's Talk
 
 Market structure, execution, automation, or trading infrastructure. My DMs are open.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7595af,45:47576a,100:131d34&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:070203,100:2a0508&height=100&section=footer" width="100%" alt="" />
